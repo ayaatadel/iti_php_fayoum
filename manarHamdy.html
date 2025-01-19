@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link href="../Styles/style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    
+    
+    <form action="profile.html">
+        <label>Enter your name:</label>
+        <input type="text" id="userName"><br><br>
+
+        <label>Enter your age:</label>
+        <input type="number" id="userAge"><br><br>
+
+        <label for="gender">Gender:</label><br/>
+        <input type="radio" id="male" name="gender" value="male" checked>
+        <label for="male">
+          <img src="../Images/M.jpg" alt="">
+        </label>
+        <input type="radio" id="female" name="gender" value="female">
+        <label for="female">
+          <img src="../Images/F.jpg" alt="">
+        </label><br/>
+
+        <label>Select your favorite color:</label>
+        <select id="color">
+            <option value="red">Red</option>
+            <option value="blue">Blue</option>
+            <option value="green">Green</option>
+        </select><br><br>
+
+        <input type="submit" onclick="addCookies()">
+    </form>
+    
+
+    <script src="../Libraries/cookieLibrary.js"></script>
+    <script src="../Scripts/script.js"></script>
+  </body>
+</html>
