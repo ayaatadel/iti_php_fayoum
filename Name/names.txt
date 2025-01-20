@@ -1,6 +1,5 @@
 1- ayaat
 <<<<<<< HEAD
-2-Ahella
 =======
 2- Mohamed Ahmed Soufie
 3- asmaa abdelnaser
@@ -15,7 +14,13 @@
 10- Amro Hisham Farouq
 >>>>>>> 3109a8466e4de05d24b5e26cf8f29e563cf7b796
 11-Abdelrahman Ali Abdelhafiz
+<<<<<<< HEAD
+12-Moaz Ahmed Elsayed
+=======
 12-Abdulrhman Mamdouh Abozeid Mahdy
 13-Alaa Elsayed Saber Eissa
+<<<<<<< HEAD
 14- Ahella khaled
+=======
+>>>>>>> e301945475448738ca6513a155b2a4fb1d800e2c
 >>>>>>> 49a49acec3f5bcd3a7acc92788a989aad9574cca
